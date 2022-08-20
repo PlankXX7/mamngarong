@@ -30,8 +30,8 @@ global.botname = 'Bot Koclok' //ubah jadi nama bot mu, note tanda ' gausah di ha
 global.footer = 'Bnzet Waccap' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283853090321']
-global.premium = ['6283853090321']
+global.owner = ['6288989841720']
+global.premium = ['6285280823514']
 global.packname = 'Bnzet'
 global.ownerr = ['Bnzet']
 global.author = 'Bnzet'
